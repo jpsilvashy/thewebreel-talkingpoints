@@ -4,7 +4,7 @@
 * 10.7
 * iPhone
 
-drink:
+_drink:_
 
 ## Episode 5 [6/10/10]
 
@@ -17,17 +17,28 @@ drink:
 * gowalla & foursquare
 * http://techcrunch.com/2010/06/02/location-turf-wars/
 
-drink: Jagerbombs!
+_drink:_ *Jagerbombs!*
+1/2 can - Red Bull® energy drink
+2 oz - Jagermeister®
 
 ## Episode 4 [6/3/10]
 
 The one where Joe and Eric talk about Google
 
-drink: White Russians
+_drink:_ *White Russians*
+2 oz - vodka
+1 oz - coffee liqueur
+light cream
 
 ## Episode 3
 
-drink:Tom Collins
+_drink:_ *John Collins*
+2 oz - bourbon whiskey
+1 oz - lemon juice
+1 tsp - superfine sugar
+3 oz - club soda
+1 - maraschino cherry
+1 - slice orange
 
 ## Episode 2
 
