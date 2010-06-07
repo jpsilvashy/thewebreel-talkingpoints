@@ -3,8 +3,9 @@
 * WWDC
 * 10.7
 * iPhone
+* 520-day simulated mission to Mars underway in Russia
 
-_drink:_
+_drink:_ Rodenbach Grand Cru?
 
 ## Episode 5 [6/10/10]
 
