@@ -4,6 +4,8 @@
 * 10.7
 * iPhone
 * 520-day simulated mission to Mars underway in Russia
+* 114000 iPad 3G users have email addresses compromised
+** http://www.dailytech.com/ATT+Accidentally+Shares+114000+iPad+3G+Buyers+Email+Addresses/article18670.htm
 
 _drink:_ Rodenbach Grand Cru?
 
