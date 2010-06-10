@@ -1,7 +1,7 @@
 ## Episode 6 [6/17/10]
 
 * WWDC
-* 10.7
+* 10.7 (nothing... crap)
 * iPhone
 * 520-day simulated mission to Mars underway in Russia
 * 114000 iPad 3G users have email addresses compromised
