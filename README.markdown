@@ -1,7 +1,12 @@
 ## Episode 7 [6/24/10]
 
 * Joe can't mention ATT or Apple this entire episode
-* possible Rails3 release candidate
+* e3
+* kinect
+* 3d DS
+* fusion!
+
+_drink:_ dark and stormies
 
 ## Episode 6 [6/17/10]
 
